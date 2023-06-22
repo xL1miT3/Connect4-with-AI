@@ -1,4 +1,4 @@
-# Connect4-with-AI
+# Connect4-mit-KI
 
 Version 1:
 
